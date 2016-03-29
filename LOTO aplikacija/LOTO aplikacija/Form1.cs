@@ -13,5 +13,9 @@ namespace LOTO_aplikacija {
 		public Form1() {
 			InitializeComponent();
 		}
+
+		private void groupBox1_Enter(object sender, EventArgs e) {
+
+		}
 	}
 }
